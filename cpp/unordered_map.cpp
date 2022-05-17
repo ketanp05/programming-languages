@@ -1,13 +1,17 @@
+/*
+unordered map in stl
+
+unordered_map is an associated container that stores elements formed by the combination of key-value 
+and a mapped value. The key value is used to uniquely identify the element and the mapped value is 
+the content associated with the key.
+*/
+
 #include <iostream>
 #include <unordered_map>
 // using namespace std;
 
 int main() {
-    /*
-    unordered_map is an associated container that stores elements formed by the combination of key-value 
-    and a mapped value. The key value is used to uniquely identify the element and the mapped value is 
-    the content associated with the key.
-    */
+   
 	std::unordered_map<int, int> umap;
 	
 	// like a dictionary in python
