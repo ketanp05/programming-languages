@@ -1,0 +1,49 @@
+// note down all key points
+
+1. 
+# string does not support item assignment.
+
+2.
+# string[start:end] - end index is not included
+# string[start:end:step] - print and skip
+# string[:len(string) or blank] - print everything/whole string
+# string[end:start:-1] - print reverse
+
+3.
+# value of true and false are 0 and 1 respectively.
+
+4.
+& -	Bitwise AND -	In-fix
+|	- Bitwise OR	- In-fix
+^	- Bitwise XOR	- In-fix
+~	- Bitwise NOT	- Prefix
+<< - Shift Bits Left	- In-fix
+>> - Shift Bits Right - In-fix
+
+5.
+# The in keyword can be used to check if a particular substring exists in another string. If the substring is found, the operation returns true.
+
+6.
+# An alternative for finding a substring using the in keyword is the find() method. It returns the first index at which a substring occurs in a string. If no instance of the substring is found, the method returns -1.
+# a_string.find(substring, start, end)
+
+# The replace() method can be used to replace a part of a string with another string. Here’s the template we must use:
+# a_string.replace(substring_to_be_replaced, new_string
+
+# With join() method you can join multiple strings.
+
+# The format() method can be used to format the specified value(s) and insert them in string’s placeholder(s).
+# The placeholders can be identified using named indexes {cname}, numbered indexes {0}, or even empty placeholders {}.
+
+7.
+# lambda params : expression
+# params can be multiple
+# calling lambda is basically calling the variable. good practice is to assign lambda to a variable
+# triple = lambda num:num*3
+# print(triple(param))
+
+8.
+# The built-in map() function creates a map object using an existing list and a function as its parameters. This object can be converted to a list using the list() function.
+# filter() filters elements from a list if the elements satisfy the condition that is specified in the argument function.
+# The function returns a filter object which can be converted to a list using list().
+# just like map(), filter() returns a new object without changing the original list.
