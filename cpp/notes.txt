@@ -1,0 +1,40 @@
+// all the key points from cppforprogrammers course noted down below 
+
+1.
+// Data types in C++#
+C++ supports the following datatypes:
+Primitive or fundamental data types
+Derived data types
+User-defined data types
+
+2.
+// Data type modifiers in C++#
+C++ supports the following data type modifiers:
+long
+short
+unsigned
+signed
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. all files are in the following repo - https://github.com/ketanp05/problem-solving.git
+
+2. study lambda functions in cpp
+
+3. we cannot declare a variable and store the address of another variable in it
+
+4. It’s considered a best practice to set a pointer to nullptr when it is declared, unless it is initialized to some valid address
+
+5. deallocate memory: you can delete the allocated memory but the not the ptr variable declared
+
+6. the compilers can directly generate default constructors for us
+Account() = default; // this becomes our default constructor
+Account(double balance){this->balance = balance;} // parametrized constructor
+
+7. Request and Suppress in CPP
+
+8. override and final in cpp
+
+9. Definition of a function in a derived class hides all overloads of the same function in the base class
+
+10. Because we can’t make an object of pure virtual class. It will give an error
