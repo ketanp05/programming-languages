@@ -1,0 +1,14 @@
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyConsoleApp1/bin/Debug/net8.0/MyConsoleApp1
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyConsoleApp1/bin/Debug/net8.0/MyConsoleApp1.deps.json
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyConsoleApp1/bin/Debug/net8.0/MyConsoleApp1.runtimeconfig.json
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyConsoleApp1/bin/Debug/net8.0/MyConsoleApp1.dll
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyConsoleApp1/bin/Debug/net8.0/MyConsoleApp1.pdb
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyConsoleApp1/obj/Debug/net8.0/MyConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyConsoleApp1/obj/Debug/net8.0/MyConsoleApp1.AssemblyInfoInputs.cache
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyConsoleApp1/obj/Debug/net8.0/MyConsoleApp1.AssemblyInfo.cs
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyConsoleApp1/obj/Debug/net8.0/MyConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyConsoleApp1/obj/Debug/net8.0/MyConsoleApp1.dll
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyConsoleApp1/obj/Debug/net8.0/refint/MyConsoleApp1.dll
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyConsoleApp1/obj/Debug/net8.0/MyConsoleApp1.pdb
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyConsoleApp1/obj/Debug/net8.0/MyConsoleApp1.genruntimeconfig.cache
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyConsoleApp1/obj/Debug/net8.0/ref/MyConsoleApp1.dll
