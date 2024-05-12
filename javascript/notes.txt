@@ -1,0 +1,4 @@
+1. 
+Execution Context - Memory and Code
+JS executes one line at a time - single-theraded langugae
+Execution context created for every function invocation/call
