@@ -1,0 +1,10 @@
+1. Console.WriteLine("Hello \"World\" !")
+-> Hello "World"
+
+
+2. use the \\ to display a single backslash.
+Console.WriteLine("c:\\source\\repos")
+
+3. use $ for string formatiing
+string name = "ketan"
+Console.WriteLine($"hi {name}")
