@@ -1,0 +1,15 @@
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyCSharpApp/obj/Debug/net8.0/MyCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyCSharpApp/obj/Debug/net8.0/MyCSharpApp.AssemblyInfoInputs.cache
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyCSharpApp/obj/Debug/net8.0/MyCSharpApp.AssemblyInfo.cs
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyCSharpApp/obj/Debug/net8.0/MyCSharpApp.csproj.CoreCompileInputs.cache
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyCSharpApp/obj/Debug/net8.0/MyCSharpApp.sourcelink.json
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyCSharpApp/bin/Debug/net8.0/MyCSharpApp
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyCSharpApp/bin/Debug/net8.0/MyCSharpApp.deps.json
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyCSharpApp/bin/Debug/net8.0/MyCSharpApp.runtimeconfig.json
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyCSharpApp/bin/Debug/net8.0/MyCSharpApp.dll
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyCSharpApp/bin/Debug/net8.0/MyCSharpApp.pdb
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyCSharpApp/obj/Debug/net8.0/MyCSharpApp.dll
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyCSharpApp/obj/Debug/net8.0/refint/MyCSharpApp.dll
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyCSharpApp/obj/Debug/net8.0/MyCSharpApp.pdb
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyCSharpApp/obj/Debug/net8.0/MyCSharpApp.genruntimeconfig.cache
+/Users/ketanpatil/Desktop/codepath-summer-24/programming_languages/csharp/MyCSharpApp/obj/Debug/net8.0/ref/MyCSharpApp.dll
